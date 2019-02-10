@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image: kamahl437/complex-worker
+      image: kamahl437/complex-client
       ports:
         - containerPort: 3000
