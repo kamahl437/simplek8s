@@ -16,4 +16,4 @@ spec:
         - name: client
           image: kamahl437/complex-client
           ports:
-            - containerPort: 3000
+            - containerPort: 9999
