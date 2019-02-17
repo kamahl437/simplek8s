@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: kamahl437/complex-client
+          image: kamahl437/complex-worker
           ports:
             - containerPort: 9999
